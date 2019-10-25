@@ -6,4 +6,4 @@ l10n = "locales/{locale}/mozilla-donate.po"
 
 [[paths]]
 reference = "templates/mozilla-donate/fighting-back.pot"
-l10n = "locales/{locale}/mozilla-donate/fighting_back.po"
+l10n = "locales/{locale}/mozilla-donate/fighting-back.po"
